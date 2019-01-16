@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Document>
+	<Student_info>
+		<Name>Charu</Name>
+		<Age>20</Age>
+		<Email>charu.singh_cs15@gla.ac.in</Email>
+	</Student_info>
+	<Student_info>
+		<Email>charus</Email>
+		<Name>Garima</Name>
+	</Student_info>
+</Document>
