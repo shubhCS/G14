@@ -1,0 +1,6 @@
+runtime:java
+env:flex
+service:default
+runtime_config:
+jdk:openjdk8
+instance_
